@@ -29,9 +29,9 @@
     package.json    
     Readme.md       
 ```
-
-> https://sequelize.org/docs/v6/core-concepts/model-querying-finders/ 
+> Resources used
+* https://sequelize.org/docs/v6/core-concepts/model-querying-finders/ 
 
 -----------
 
-> Designed By DOGUKAN © Oct 2023.
+> Designed By DOGUKAN © Oct 2023
