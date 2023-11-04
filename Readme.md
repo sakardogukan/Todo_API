@@ -34,4 +34,4 @@
 
 -----------
 
-> Designed By DOGUKAN © Oct 2023
+> Designed By DOGUKAN © Oct 2023.
